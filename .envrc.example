@@ -1,0 +1,2 @@
+export KUBECONFIG="/home/jimbo/.lima/k3s-demo/copied-from-guest/kubeconfig.yaml"
+export SOPS_PUBLIC_KEY="<your-sops-public-key-here>"
