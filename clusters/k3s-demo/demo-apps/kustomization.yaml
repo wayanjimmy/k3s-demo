@@ -4,4 +4,4 @@ namespace: demo-apps
 resources:
 - namespace.yaml
 - nginx-demo.yaml
-- secrets.yaml
+- secret.yaml
