@@ -4,5 +4,4 @@ namespace: demo-apps
 resources:
 - namespace.yaml
 - nginx-demo.yaml
-# Comment out for now - will add back with SOPS later
-# - secrets/db-credentials.yaml
+- secrets.yaml
